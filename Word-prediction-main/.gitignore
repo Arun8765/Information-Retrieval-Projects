@@ -1,0 +1,7 @@
+#excluded all images
+
+/images
+
+# excluded checkpoints
+
+/.ipynb_checkpoints
